@@ -1,2 +1,0 @@
-{% load i18n %}
-{% blocktrans %}Correo principal establecido.{% endblocktrans %}
